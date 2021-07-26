@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaderBoardTracker", "LeaderBoardTracker\LeaderBoardTracker.csproj", "{B292355E-D3ED-463C-B8B3-27705E1C9CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B292355E-D3ED-463C-B8B3-27705E1C9CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B292355E-D3ED-463C-B8B3-27705E1C9CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B292355E-D3ED-463C-B8B3-27705E1C9CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B292355E-D3ED-463C-B8B3-27705E1C9CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A492F37-44D2-433D-9937-FA9597839418}
+	EndGlobalSection
+EndGlobal
